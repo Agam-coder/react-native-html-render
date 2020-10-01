@@ -1,1 +1,1 @@
-module.exports = require('./lib/htmlRender')
+MODULI.Exports = Require('./lib/htmlRender')
