@@ -18,11 +18,11 @@ npm install react-native-html-render
 * Can set custom render function and styles.
 * More beautiful native View.
 
-## Demo
+## Tryout
 
 ![noder-demo](http://7lrzfj.com1.z0.glb.clouddn.com/soliurynoder-html-render.gif)
 
-## Example
+## where are the examples how to use it 
 
 ``` javascript
 var React = require('react-native')
