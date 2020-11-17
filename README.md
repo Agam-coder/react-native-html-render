@@ -6,13 +6,13 @@
 > Be careful to use, the performance is not good. If you want to improve the performance, be free to open a issue or send a PR.
 
 
-## Install
+## installation
 
 ```
 npm install react-native-html-render
 ```
 
-## Futures
+## some awesome features
 
 * Support img and code render.
 * Can set custom render function and styles.
